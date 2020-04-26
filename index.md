@@ -5,15 +5,15 @@
 ### Projects 
 
 [  Python  NFA Builder  ](https://github.com/OmalleyTomas98/graphTheoryProject)
-<img src="images/nfa.jpg?raw=true"/>
+<img src="images/nfa.jpg"/>
 
 ---
 [ Java WordCloud Generator ](https://github.com/OmalleyTomas98/JavaWordCloudGenerator)
-<img src="images/WordCloud.jpg?raw=true"/>
+<img src="images/WordCloud.jpg"/>
 
 ---
 [Java  Language Detector ](https://github.com/OmalleyTomas98/MultithreadedLanguageDetector)
-<img src="images/languageDect.jpg?raw=true"/>
+<img src="images/languageDect.jpg"/>
 
 ---
 
