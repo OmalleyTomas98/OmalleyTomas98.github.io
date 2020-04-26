@@ -4,26 +4,26 @@
 
 ### Projects 
 
-[  Python  NFA Builder  ](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[  Python  NFA Builder  ](https://github.com/OmalleyTomas98/graphTheoryProject)
+<img src="images/nfa.jpg?raw=true"/>
 
 ---
-[ Java WordCloud Generator ](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ Java WordCloud Generator ](https://github.com/OmalleyTomas98/JavaWordCloudGenerator)
+<img src="images/WordCloud.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Java  Language Detector ](https://github.com/OmalleyTomas98/MultithreadedLanguageDetector)
+<img src="images/languageDect.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other College Projects 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Advanced C Project](https://github.com/OmalleyTomas98/ABC-DENTAL-C-APP)
+- [MERN React Web App](https://github.com/OmalleyTomas98/RecordShopReactApp)
+- [Operating Systems Java TCP Project](https://github.com/OmalleyTomas98/FootballClubApplication)
+- [Advanced Data Centric Java Spring App](https://github.com/OmalleyTomas98/AdvancedDataCentric)
+- [Unity  C#  2D Game](https://github.com/OmalleyTomas98/unityProcaffeinatingFPSgame)
 
 ---
 
