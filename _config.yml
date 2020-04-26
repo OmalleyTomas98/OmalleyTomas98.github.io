@@ -1,9 +1,8 @@
 title: Tomás O'Malley # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: Currently a 3rd year student student studying software development @ Galway Mayo Institute of Technology.
   <br><br>
   <a href="https://stackoverflow.com/users/13356579/omalleytomas98?tab=profile">Stack overflow</a> 
-  <br><br>
   <a href="https://www.linkedin.com/in/tomas-omalley-09b997182/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

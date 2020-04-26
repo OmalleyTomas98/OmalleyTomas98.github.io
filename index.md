@@ -1,8 +1,9 @@
 ## Portfolio
 
+Software Development  
 ---
 
-### Projects 
+### College Projects
 
 [  Python  NFA Builder  ](https://github.com/OmalleyTomas98/graphTheoryProject)
 <img src="images/NFA.jpg"/>
