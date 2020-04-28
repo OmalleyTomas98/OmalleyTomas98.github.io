@@ -59,6 +59,39 @@ Systems Analysis Methods                   |
 Applied Networking Technology 1            |
 
 
+
+
+
+
+
+
+Year 3                                     |
+----------------------------------------   |               
+OPERATING SYSTEMS 1                        |         
+DATA CENTRIC                               |
+GRAPHICS PROGRAMMING                       |       
+SOFTWARE QUALITY MANAGEMENT	               |             
+DATA REPRESENTATION AND QUERYING           |         
+OBJECT ORIENTED PROGRAMMING                |
+MOBILE APPLICATIONS DEVELOPMENT 2          |         
+PROFESSIONAL PRACTICE IN IT                |
+DATABASE MANAGEMENT SYSTEMS	               |       
+ADVANCED DATA CENTRIC	                     |             
+SOFTWARE TESTING                           |         
+GRAPH THEORY                               |
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
