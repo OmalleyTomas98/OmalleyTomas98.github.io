@@ -18,7 +18,12 @@ Software Development
 
 ---
 
-### Other College Projects 
+
+### Myself
+[  Background  ](/sample_page)
+<img src="images/NFA.jpg"/>
+
+### Other College Projects
 
 - [Advanced C Project](https://github.com/OmalleyTomas98/ABC-DENTAL-C-APP)
 - [MERN React Web App](https://github.com/OmalleyTomas98/RecordShopReactApp)
