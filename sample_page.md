@@ -41,6 +41,24 @@ Learning and Innovation Skills            |
 
 
 
+
+
+Year 2                                     |
+----------------------------------------   |               
+ADVANCED PROCEDURAL PROGRAMMING            |         
+DATA STRUCTURES AND ALGORITHMS             |
+Database Management                        |       
+Project Management	                       |             
+Applied Networking Technology 2            |         
+Mobile Applications Development            |
+IT Professional Skills                     |         
+Internet & Mobile Application Development  |
+PROCEDURAL PROGRAMMING	                   |       
+SOFTWARE DESIGN & PROGRAM DEVELOPMENT 2	   |             
+Systems Analysis Methods                   |         
+Applied Networking Technology 1            |
+
+
 ### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
