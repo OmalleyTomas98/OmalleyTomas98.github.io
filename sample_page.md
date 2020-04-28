@@ -1,10 +1,9 @@
-## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Course description:** The BSc (Hons) in Computing (Software Development) is a four-year degree programme designed to provide students with the theoretical and practical knowledge necessary to pursue a career as a software developer.
 
 ### 1. College studies
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Below is a list of the foundation  technologies I acquired during my studies.
 
 Languages     | Databases     | Frameworks     |  Testing
 ------------- | ------------- | -------------  | -------------  |
@@ -19,14 +18,26 @@ Typescript    |               |                |
 
 ### 2. Other Skills
 
+Also here are some skills I developed over the years
+
 Other Skills                               |
-----------------------------------------   | 
+----------------------------------------   |
 Git, Github and BitBucket                  |
 Linux & Windows operating systems          |
 Remote servers such as AWS and GoogleCloud |
 
 
 
+### 3. College Modules
+
+Year 1                                    |
+----------------------------------------  |               
+Computer Technology                       |         
+E-BUSINESS ADMINISTRATION                 |
+Essential Mathematics for Computing       |       
+Software Design & Program Development 1   |             
+Graphical User Interface & Web Development|         
+Learning and Innovation Skills            |              
 
 
 
