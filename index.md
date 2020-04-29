@@ -20,8 +20,8 @@ Software Development
 
 
 ### Myself
-[  Background  ](/sample_page)
-<img src="images/NFA.jpg"/>
+[  Course Background  ](/sample_page)
+<img src="images/GMIT.png"/>
 
 ### Other College Projects
 
